@@ -1,4 +1,4 @@
-#### This app allows ont to follows selected stock ticker tweets from the stocktwits.com API.
+#### This app allows one to follows the selected stock ticker tweets from stocktwits.com using their API.
 
 #### Link to the working project:
 
