@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/stock-tweets/static/css/main.b48c5502.chunk.css",
+    "main.js": "/stock-tweets/static/js/main.6ce40f87.chunk.js",
+    "main.js.map": "/stock-tweets/static/js/main.6ce40f87.chunk.js.map",
+    "runtime-main.js": "/stock-tweets/static/js/runtime-main.813dbf39.js",
+    "runtime-main.js.map": "/stock-tweets/static/js/runtime-main.813dbf39.js.map",
+    "static/js/2.a45fe27e.chunk.js": "/stock-tweets/static/js/2.a45fe27e.chunk.js",
+    "static/js/2.a45fe27e.chunk.js.map": "/stock-tweets/static/js/2.a45fe27e.chunk.js.map",
+    "index.html": "/stock-tweets/index.html",
+    "precache-manifest.d36bf3a904a5a579b75bb3bc6e0cce0a.js": "/stock-tweets/precache-manifest.d36bf3a904a5a579b75bb3bc6e0cce0a.js",
+    "service-worker.js": "/stock-tweets/service-worker.js",
+    "static/css/main.b48c5502.chunk.css.map": "/stock-tweets/static/css/main.b48c5502.chunk.css.map",
+    "static/js/2.a45fe27e.chunk.js.LICENSE.txt": "/stock-tweets/static/js/2.a45fe27e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.813dbf39.js",
+    "static/js/2.a45fe27e.chunk.js",
+    "static/css/main.b48c5502.chunk.css",
+    "static/js/main.6ce40f87.chunk.js"
+  ]
+}
