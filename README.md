@@ -1,3 +1,14 @@
+#### This app allows ont to follows selected stock ticker tweets from the stocktwits.com API.
+
+#### Link to the working project:
+
+https://vimalamp.github.io/stock-tweets/
+
+---
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
