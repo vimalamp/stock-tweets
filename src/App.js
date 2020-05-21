@@ -23,7 +23,7 @@ function App() {
     setIsError(false);
     try {
       const result = await Axios(
-        `https://api.stocktwits.com/api/2/streams/symbol/${tick}.json`
+        `https://cors-anywhere.herokuapp.com/https://api.stocktwits.com/api/2/streams/symbol/${tick}.json`
       );
       const tweets=result.data.messages;
       setTickerTweets({...tickerTweets, [tick]: tweets });
@@ -53,7 +53,7 @@ function App() {
             if (!value) return;
             if (value in tickerTweets) {
               setIsDuplicate(true);
-              return           
+              return
             } ;
             setQuery(value);
             setValue(''); 
@@ -63,6 +63,7 @@ function App() {
         value={value} 
         onChange={ e => {
           setIsDuplicate(false);
+          setIsError(false);
           setValue(e.target.value.toUpperCase()) }
         }
         placeholder="Enter a symbol, e.g. MSFT"/>
