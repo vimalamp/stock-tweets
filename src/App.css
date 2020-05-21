@@ -13,6 +13,7 @@ form button {
 .notification{
   color: red;
   font-size: small;
+  padding-top: 0.3em;
 }
 .tickers {
   width: 80%;
